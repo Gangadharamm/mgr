@@ -49,3 +49,11 @@ Commerce Cloud
 Salesforce AppExchange
 
 Marketplace for Salesforce apps.
+
+4. Development Technologies
+Apex
+Lightning Web Components (LWC)
+SOQL
+Flow
+APIs
+
