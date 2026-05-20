@@ -43,3 +43,9 @@ Service Cloud
 Experience Cloud
 Marketing Cloud
 Commerce Cloud
+
+3. AppExchange
+
+Salesforce AppExchange
+
+Marketplace for Salesforce apps.
